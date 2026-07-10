@@ -1,0 +1,12 @@
+### Post req to create a user
+POST http://localhost:4000/patients/create
+Content-Type: application/json
+
+{
+  "name": "John",
+  "email": "rugved@gmail.com",
+  "address": "123 main street22",
+  "dateOfBirth": "1990-01-01",
+  "registeredDate": "2024-11-28"
+}
+###
