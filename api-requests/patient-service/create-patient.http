@@ -3,10 +3,10 @@ POST http://localhost:4000/patients/create
 Content-Type: application/json
 
 {
-  "name": "rugvedkhumkar",
-  "email": "rugvedk12@gmail.com",
-  "address": "123 main street22",
-  "dateOfBirth": "1990-01-01",
+  "name": "Sunilkhumkar",
+  "email": "sunil123@gmail.com",
+  "address": "dabki road",
+  "dateOfBirth": "1974-07-01",
   "registeredDate": "2024-11-28"
 }
 ###
