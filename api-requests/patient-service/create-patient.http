@@ -3,9 +3,9 @@ POST http://localhost:4000/patients/create
 Content-Type: application/json
 
 {
-  "name": "Sunilkhumkar",
-  "email": "sunil123@gmail.com",
-  "address": "dabki road",
+  "name": "consumerrunning",
+  "email": "veryhappy@gmail.com",
+  "address": "dabki road,akola",
   "dateOfBirth": "1974-07-01",
   "registeredDate": "2024-11-28"
 }
